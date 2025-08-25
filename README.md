@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Azad MUsa</h1>
+<h1 align="center">Hi 👋, I'm Azad Musa</h1>
 <h3 align="center">A passionate back-end developer from Azerbaijan</h3>
 
-- 🔭 I’m currently working on **Desktop Erp Project**
+- 🔭 Founter at TogeTech
 
-- 🌱 I’m currently learning **C#, .Net, Angular**
+- 🌱 I’m currently working on **C#, .Net, Angular**
 
 - 👯 I’m interested in **camping**
 
 - 🤝 I know **Php, Laravel, Front-End without Library, RestFul Api**
 
-- 📫 How to reach me **azadmusa@barkodsoft.az**
+- 📫 How to reach me **azadmusa@togetech.az**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
